@@ -1,0 +1,23 @@
+@media screen and (max-width: 1920px) {
+    body{
+        background-color: #9F90BA;
+    }
+}
+@media screen and (max-width: 1280px) {
+    body{
+        background-color: #D3A1B7;
+    }
+}
+@media screen and (max-width: 800px) {
+    body{
+        background-color: #FED2AF;
+    }
+}
+@media screen and (max-width: 480px) {
+    body{
+        background-color: #EC8E82;
+    }
+}
+footer {
+    background: #A27C62;
+  }
